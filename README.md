@@ -1,4 +1,4 @@
-# notify-rust
+# notifrust
 
 [![Travis](https://img.shields.io/travis/hoodie/notify-rust.svg)](https://travis-ci.org/hoodie/notify-rust/)
 [![license](https://img.shields.io/crates/l/notify-rust.svg)](https://crates.io/crates/notify-rust/)

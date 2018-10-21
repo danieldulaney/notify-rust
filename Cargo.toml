@@ -1,9 +1,9 @@
 [package]
-name = "notify-rust"
+name = "notifrust"
 version = "3.5.0"
 authors = ["Hendrik Sollich <hendrik@hoodie.de>", "panicbit <panicbit@users.noreply.github.com>"]
-description = "Show desktop notifications. Pure Rust dbus client and server."
-homepage = "https://github.com/hoodie/notify-rust"
+description = "A crate almost as good as notify-rust."
+omepage = "https://github.com/hoodie/notify-rust"
 repository = "https://github.com/hoodie/notify-rust"
 documentation = "https://docs.rs/notify-rust/"
 

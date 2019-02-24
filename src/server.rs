@@ -145,7 +145,7 @@ fn method_notify<F: 'static>(factory: &Factory<MTFn>, on_notification: Box<F>) -
             summary,
             body,
             actions,
-            hints: hints_from_variants(hints),
+            hints: hints_from_variants(&hints),
             timeout: Timeout::from(timeout),
             id: if replaces_id == 0 { None } else { Some(replaces_id) },
             subtitle: None,

@@ -14,6 +14,9 @@ pub enum ErrorKind {
     Parse(num::ParseIntError),
 
     SpecVersion(String),
+
+    /// only here for backwards compatibility
+    Msg(String)
 }
 
 #[derive(Debug)]
